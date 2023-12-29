@@ -1,6 +1,6 @@
 # Movie Recommendation Model Readme
 
-## 1) Basic Functionality
+## Basic Functionality
 
 The Movie Recommendation Model is designed to provide movie recommendations based on user input and the similarity scores with other entries in the dataset. Here's an overview of how the model works:
 
@@ -10,7 +10,7 @@ The Movie Recommendation Model is designed to provide movie recommendations base
 4. Cosine Similarity: Cosine similarity is calculated between these feature vectors to measure their similarity.
 5. Recommendation Model: Using the processed information, a recommendation model is built. It takes user input and recommends movies based on their similarity scores with other entries in the dataset.
 
-## 2) About Files
+## About Files
 
 - `reccomend.ipynb`: This notebook contains the skeleton code that demonstrates the logic and steps behind the recommendation model.
 - `backend.py`: The `backend.py` file contains all the backend code and the model, with Flask implemented to create a frontend for the recommendation system.
@@ -18,7 +18,7 @@ The Movie Recommendation Model is designed to provide movie recommendations base
 - `movies.csv`: This CSV file contains the dataset used to design the recommendation model.
 - `static` folder: This folder contains the background image. It is placed in a static folder because Flask expects static assets like images to be stored in a designated folder.
 
-## 3) How to Run the Model on Your Local Computer
+## How to Run the Model on Your Local Computer
 
 ### Cloning the Repository:
 
@@ -50,11 +50,11 @@ python backend.py
 
 This should open a web page in your preferred browser. Once loaded, you can use the tool for movie recommendations.
 
-## 4) Screenshots and Model Insights
+## Screenshots and Model Insights
 
 This section provides a visual representation of how the model works and may include screenshots or visualizations to illustrate its functionality.
 
-## 5) Note
+## Note
 
 Please note that the functionality of the model is limited, as it was created for the purpose of showcasing machine learning skills and is not intended for commercial use. Movie recommendations are based on the dataset being used, which implies that the information may not be up-to-date.
 ---
