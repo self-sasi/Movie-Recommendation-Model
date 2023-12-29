@@ -23,7 +23,7 @@ The Movie Recommendation Model is designed to provide movie recommendations base
 
 ### Ⅰ) Cloning the Repository:
 
-To get started, clone the repository into a local directory on your machine using the following command in your command prompt or Git Bash::
+To get started, clone the repository into a local directory on your machine using the following command in your command prompt or Git Bash:
 
 ```bash
 git clone https://github.com/self-sasi/Movie-Recommendation-Model.git
