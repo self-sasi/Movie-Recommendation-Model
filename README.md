@@ -17,6 +17,7 @@ The Movie Recommendation Model is designed to provide movie recommendations base
 - `index.html`: This HTML file is for testing purposes and determines how the `HTML_TEMPLATE` string variable in `backend.py` looks. It serves no functional purpose.
 - `movies.csv`: This CSV file contains the dataset used to design the recommendation model.
 - `static` folder: This folder contains the background image. It is placed in a static folder because Flask expects static assets like images to be stored in a designated folder.
+- `LICENSE` : The project is licensed under the MIT License. This license permits reuse, distribution, modification, private use, and licensing, provided that the original authorship is credited and the license notice and warranty disclaimer are preserved with the distribution.
 
 ## How to Run the Model on Your Local Computer
 
