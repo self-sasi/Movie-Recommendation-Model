@@ -53,7 +53,15 @@ This should open a web page in your preferred browser. Once loaded, you can use 
 
 ## Screenshots and Model Insights
 
-This section provides a visual representation of how the model works and may include screenshots or visualizations to illustrate its functionality.
+This section provides a visual representation of how the model works. The user is required to enter the name of a movie they want related recommendations for. 
+
+![image](https://github.com/self-sasi/Movie-Recommendation-Model/assets/140454190/bbf4b736-508b-4f5b-b022-03b4577e487c)
+
+After clicking the search button, the model displays 20 movie recommendations based on similarity scores.
+
+![image](https://github.com/self-sasi/Movie-Recommendation-Model/assets/140454190/b0ada1c1-a539-4f26-8528-06ab962a8214)
+
+Please note that clicking on the recommended movie names will not redirect the user to a different site, as this functionality was out of the target scope and not included in the project to focus on showcasing machine learning-related skills.
 
 ## Note
 
