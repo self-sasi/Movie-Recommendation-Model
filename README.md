@@ -57,7 +57,9 @@ This section provides a visual representation of how the model works and may inc
 ## Note
 
 Please note that the functionality of the model is limited, as it was created for the purpose of showcasing machine learning skills and is not intended for commercial use. Movie recommendations are based on the dataset being used, which implies that the information may not be up-to-date.
+
 ---
+
 ## Contributions
 
 Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
