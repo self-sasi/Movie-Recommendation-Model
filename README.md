@@ -20,7 +20,7 @@ The Movie Recommendation Model is designed to provide movie recommendations base
 
 ## How to Run the Model on Your Local Computer
 
-### Cloning the Repository:
+### Ⅰ) Cloning the Repository:
 
 To get started, clone the repository into a local directory on your machine using the following command:
 
@@ -28,7 +28,7 @@ To get started, clone the repository into a local directory on your machine usin
 git clone https://github.com/self-sasi/Movie-Reccomendation-Model.git
 ```
 
-### Installing Necessary Tools:
+### Ⅱ) Installing Necessary Tools:
 
 Make sure you have Python installed on your system. Then, install the required libraries by running the following commands:
 
@@ -36,11 +36,11 @@ Make sure you have Python installed on your system. Then, install the required l
 pip install Flask numpy pandas scikit-learn
 ```
 
-### Ensuring File Organization:
+### Ⅲ) Ensuring File Organization:
 
 Ensure that all the files are saved in the same directory to avoid file-not-found errors.
 
-### Running the Application:
+### Ⅳ) Running the Application:
 
 Execute the `backend.py` file by running the following command in your terminal:
 
