@@ -65,9 +65,7 @@ Please note that clicking on the recommended movie names will not redirect the u
 
 ## Note
 
-Please note that the functionality of the model is limited, as it was created for the purpose of showcasing machine learning skills and is not intended for commercial use. Movie recommendations are based on the dataset being used, which implies that the information may not be up-to-date.
-
----
+Please note that the functionality of the model is limited, as it was created for the purpose of showcasing machine learning skills and is not intended for commercial use. Movie recommendations are based on the dataset being used, which implies that the information may not be up-to-date.x
 
 ## Contributions
 
