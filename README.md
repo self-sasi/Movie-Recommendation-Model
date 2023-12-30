@@ -72,3 +72,11 @@ Please note that the functionality of the model is limited, as it was created fo
 ## Contributions
 
 Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
+
+## Credits
+
+The dataset used in this project, `movies.csv`, is accessible via the following Google Drive link, which also provides additional information: [Movies Dataset on Google Drive](https://drive.google.com/file/d/1cCkwiVv4mgfl20ntgY3n4yApcWqqZQe6/view).
+
+I would like to acknowledge the creators and contributors of this dataset for providing the resources necessary to train our Recommendation Model.
+
+---
